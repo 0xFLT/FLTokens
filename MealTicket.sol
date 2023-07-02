@@ -7,4 +7,9 @@ import "@chainlink/contracts/src/v0.6/interfaces/AggregatorV3Interface.sol";
 
 contract Quarters {
 
+    function Token() public{
+
+    }
+
+
 }
